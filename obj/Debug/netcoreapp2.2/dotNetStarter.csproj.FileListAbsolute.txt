@@ -1,0 +1,11 @@
+/Users/marbilher/sf.code/dotNetStarter/bin/Debug/netcoreapp2.2/dotNetStarter.deps.json
+/Users/marbilher/sf.code/dotNetStarter/bin/Debug/netcoreapp2.2/dotNetStarter.runtimeconfig.json
+/Users/marbilher/sf.code/dotNetStarter/bin/Debug/netcoreapp2.2/dotNetStarter.runtimeconfig.dev.json
+/Users/marbilher/sf.code/dotNetStarter/bin/Debug/netcoreapp2.2/dotNetStarter.dll
+/Users/marbilher/sf.code/dotNetStarter/bin/Debug/netcoreapp2.2/dotNetStarter.pdb
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.csprojAssemblyReference.cache
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.csproj.CoreCompileInputs.cache
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.AssemblyInfoInputs.cache
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.AssemblyInfo.cs
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.dll
+/Users/marbilher/sf.code/dotNetStarter/obj/Debug/netcoreapp2.2/dotNetStarter.pdb
