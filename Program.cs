@@ -76,7 +76,7 @@ namespace dotNetStarter
             if (scorePlayer == 3) {
                 Console.WriteLine("Player has won!");
             } else if (scoreCPU == 3) {
-                Console.WriteLine("Hope has vanished. The machines have won!");
+                Console.WriteLine("Hope is lost for humanity. The machines have won!");
             }
             else {
 
