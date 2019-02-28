@@ -15,7 +15,7 @@ namespace dotNetStarter
             int scoreCPU = 0;
 
             while(scorePlayer < 3 && scoreCPU < 3) {
-
+            Console.Write("Exploring adding_description branch      ");
             Console.Write("Do you choose ROCK, PAPER or SCISSORS?      ");
             inputPlayer = Console.ReadLine();
             inputPlayer = inputPlayer.ToUpper();
